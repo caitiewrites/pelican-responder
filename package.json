@@ -1,0 +1,15 @@
+{
+  "name": "pelican-responder",
+  "version": "1.0.0",
+  "description": "tweets surreal images in response to @ mentions",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "caitlin mcdonald",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "twitter": "^1.7.1"
+  }
+}
