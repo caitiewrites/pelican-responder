@@ -4,6 +4,7 @@
   "description": "tweets surreal images in response to @ mentions",
   "main": "bot.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "caitlin mcdonald",
